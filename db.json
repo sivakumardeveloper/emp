@@ -1,0 +1,20 @@
+{
+  "employees": [
+    {
+      "index": "ta",
+      "id": "6b92"
+    },
+    {
+      "id": "86da",
+      "firstName": "technical",
+      "lastName": "Babaji",
+      "email": "siva@gmail.com",
+      "dob": "2024-09-12T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "google",
+      "experience": 4,
+      "package": 12
+    }
+  ]
+}
